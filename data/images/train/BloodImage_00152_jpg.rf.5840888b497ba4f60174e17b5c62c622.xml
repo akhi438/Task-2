@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>BloodImage_00152_jpg.rf.5840888b497ba4f60174e17b5c62c622.jpg</filename>
+	<path>BloodImage_00152_jpg.rf.5840888b497ba4f60174e17b5c62c622.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>WBC</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>129</xmin>
+			<xmax>282</xmax>
+			<ymin>32</ymin>
+			<ymax>173</ymax>
+		</bndbox>
+	</object>
+</annotation>
